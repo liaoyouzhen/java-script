@@ -8,7 +8,7 @@ if(age <= 13)
 else   // "otherwise"
 {
     console.log("Welcome to my game.");// do this code
-}
+
 console.log("You are at a Justin Bieber concert, and you hear this lyric 'Lace my shoes off, start racing.'");
 console.log("Suddenly, Bieber stops and says, 'Who wants to race me?'");
 var userAnswer = prompt("Do you want to race Bieber on stage?");
@@ -29,4 +29,4 @@ if(feedback >=8)
 {
     console.log("Thank you! We should race at the next concert!")}
 else{
-    console.log("I'll keep practicing coding and racing.")    }
+    console.log("I'll keep practicing coding and racing.")    }}
